@@ -85,6 +85,19 @@ html, body,
     font-family: 'Plus Jakarta Sans', sans-serif !important;
     font-size: 0.88rem !important;
 }
+/* ✨ NEON BLINKING CURSOR (DANDA EFFECT) */
+.stTextArea textarea,
+.stTextInput input {
+    caret-color: #00f5ff !important;
+}
+
+/* neon glow on focus */
+.stTextArea textarea:focus,
+.stTextInput input:focus {
+    border-color: #00f5ff !important;
+    box-shadow: 0 0 0 3px rgba(0,245,255,0.15),
+                0 0 18px rgba(0,245,255,0.25) !important;
+}
 .stTextArea textarea:focus,
 .stTextInput input:focus {
     border-color: #A78BFA !important;
