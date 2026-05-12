@@ -13,7 +13,8 @@ st.set_page_config(
 )
  
 # ─────────────────────────────────────────────
-# GLOBAL CSS 
+# GLOBAL CSS  — forces light theme on every element
+# so dark-mode OS/browser setting never bleeds through
 # ─────────────────────────────────────────────
 st.markdown("""
 <style>
@@ -32,7 +33,7 @@ html, body,
 }
  
 /* == HIDE STREAMLIT CHROME == */
-#MainMenu, footer, header { visibility: hidden; }
+#MainMenu, footer { visibility: hidden !important; }
 .stDeployButton { display: none !important; }
  
 /* == SIDEBAR == */
@@ -419,30 +420,37 @@ def render_sidebar():
         st.markdown("<hr>", unsafe_allow_html=True)
  
         # API status
-        sidebar_label("API Status")
-        if st.session_state.api_status is None:
-            badge_style = "background:#f3f4f6;color:#6B7280;"
-            badge_text  = "⚪ Not checked"
-        elif st.session_state.api_status:
-            badge_style = "background:#dcfce7;color:#15803d;"
-            badge_text  = "● Connected"
-        else:
-            badge_style = "background:#fee2e2;color:#dc2626;"
-            badge_text  = "● Error"
+sidebar_label("API Status")
+
+if st.session_state.api_status is None:
+    badge_style = "background:#f3f4f6;color:#6B7280;"
+    badge_text  = "⚪ Not checked"
+elif st.session_state.api_status:
+    badge_style = "background:#dcfce7;color:#15803d;"
+    badge_text  = "● Connected"
+else:
+    badge_style = "background:#fee2e2;color:#dc2626;"
+    badge_text  = "● Error"
  
-        bc1, bc2 = st.columns([3, 2])
-        with bc1:
-            st.markdown(
-                f'<span style="{badge_style}padding:0.2rem 0.7rem;'
-                f'border-radius:999px;font-size:0.72rem;font-weight:600;">{badge_text}</span>',
-                unsafe_allow_html=True,
-            )
-        with bc2:
-            if st.button("Test", key="sidebar_test", use_container_width=True):
-                with st.spinner("..."):
-                    st.session_state.api_status = check_api_status()
-                st.rerun()
- 
+col1, col2 = st.columns([3, 1], vertical_alignment="center")
+
+badge_style_local = locals().get("badge_style", "background:#f3f4f6;color:#6B7280;")
+badge_text_local = locals().get("badge_text", "⚪ Not checked")
+
+with col1:
+    st.markdown(
+        f"<div style='display:flex;align-items:center;gap:8px;'>"
+        f"<span style='{badge_style_local}padding:0.2rem 0.7rem;border-radius:999px;"
+        f"font-size:0.72rem;font-weight:600;white-space:nowrap;'>"
+        f"{badge_text_local}</span></div>",
+        unsafe_allow_html=True
+    )
+
+with col2:
+    if st.button("Test", key="sidebar_test", use_container_width=True):
+        with st.spinner("..."):
+            st.session_state.api_status = check_api_status()
+        st.rerun()
         # History count
         count = len(st.session_state.history)
         if count:
@@ -798,3 +806,17 @@ elif st.session_state.page == "history":
     render_history()
 elif st.session_state.page == "settings":
     render_settings()
+st.markdown("""
+<hr style="margin-top:2rem;margin-bottom:0.8rem;border-color:#f0e6f8;">
+
+<div style="
+    text-align:center;
+    font-size:0.75rem;
+    color:#9CA3AF;
+    padding-bottom:1.2rem;
+    font-weight:500;
+">
+    © 2026 NeuroVerse AI · All Rights Reserved<br>
+    Built with ❤️ by <b>Pranjal Sharma</b>
+</div>
+""", unsafe_allow_html=True)
