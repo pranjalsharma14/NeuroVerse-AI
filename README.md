@@ -428,15 +428,15 @@ Built using:
 <p align="center">
 
 <a href="https://github.com/pranjalsharma14">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-pranjalsharma14-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/pranjalsharma56/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pranjal%20Sharma-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:pranjalsharma.works@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -467,31 +467,27 @@ AI SaaS Products • LLM Systems • Streamlit AI Apps
 
 ---
 
-# ⭐ SUPPORT THE PROJECT
+# ⭐ SUPPORT THIS REPOSITORY
 
 <p align="center">
 
-<a href="https://github.com/pranjalsharma14/NeuroVerse-AI-Content-Studio/stargazers">
-<img src="https://img.shields.io/github/stars/pranjalsharma14/NeuroVerse-AI-Content-Studio?style=for-the-badge&logo=github&color=00F5FF"/>
+<a href="https://github.com/pranjalsharma14/NeuroVerse-AI/stargazers">
+  <img src="https://img.shields.io/github/stars/pranjalsharma14/NeuroVerse-AI?style=for-the-badge&logo=github&color=7C3AED"/>
 </a>
 
-<a href="https://github.com/pranjalsharma14/NeuroVerse-AI-Content-Studio/fork">
-<img src="https://img.shields.io/github/forks/pranjalsharma14/NeuroVerse-AI-Content-Studio?style=for-the-badge&logo=github&color=7F5AF0"/>
+<a href="https://github.com/pranjalsharma14/NeuroVerse-AI/network/members">
+  <img src="https://img.shields.io/github/forks/pranjalsharma14/NeuroVerse-AI?style=for-the-badge&logo=github&color=06B6D4"/>
 </a>
 
-<a href="https://github.com/pranjalsharma14/NeuroVerse-AI-Content-Studio/issues">
-<img src="https://img.shields.io/github/issues/pranjalsharma14/NeuroVerse-AI-Content-Studio?style=for-the-badge&logo=github&color=FF4ECD"/>
+<a href="https://github.com/pranjalsharma14/NeuroVerse-AI/issues">
+  <img src="https://img.shields.io/github/issues/pranjalsharma14/NeuroVerse-AI?style=for-the-badge&logo=github&color=EC4899"/>
+</a>
+
+<a href="https://github.com/pranjalsharma14/NeuroVerse-AI">
+  <img src="https://komarev.com/ghpvc/?username=pranjalsharma14&label=Repository+Views&style=for-the-badge&color=0ea5e9"/>
 </a>
 
 </p>
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=If+You+Like+This+Project+Give+It+A+Star;Support+The+Future+Of+AI+Projects;Build+AI+.+Ship+Fast+.+Scale+Systems"/>
-</p>
-
----
 
 # 💙 SHOW SOME LOVE
 
