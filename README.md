@@ -489,6 +489,8 @@ AI SaaS Products • LLM Systems • Streamlit AI Apps
 
 </p>
 
+---
+
 # 💙 SHOW SOME LOVE
 
 <table align="center">
