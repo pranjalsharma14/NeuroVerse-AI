@@ -225,11 +225,13 @@ NeuroVerse-AI/
 
 ---
 
-# 🖼️ Preview
+# 🖼️ App Preview
 
 <p align="center">
 
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1600&auto=format&fit=crop" width="100%" />
+<a href="https://github.com/pranjalsharma14/NeuroVerse-AI">
+  <img src="https://github.com/pranjalsharma14/NeuroVerse-AI/blob/main/Screenshot%202026-05-19%20200820.png?raw=true" width="100%" />
+</a>
 
 </p>
 
