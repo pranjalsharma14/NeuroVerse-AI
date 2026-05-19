@@ -1,548 +1,496 @@
-<!-- ========================================================= -->
-<!-- 🌌 NEUROVERSE AI CONTENT STUDIO -->
-<!-- ========================================================= -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                     ⚡ PRANJAL.OS                    -->
+<!--          AI SYSTEMS • CREATOR • STORYTELLER         -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:7F5AF0,50:00F5FF,75:FF4ECD,100:FF0080&text=NEUROVERSE%20AI&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Content%20Studio%20%7C%20GenAI%20SaaS%20Platform&descAlignY=58"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=AI+Content+Generation+Platform;Prompt+Engineering+Ecosystem;Streamlit+%2B+OpenRouter+Powered;Multi-Model+LLM+Application;Professional+GenAI+SaaS+Project;Built+By+Pranjal+Sharma"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:050816,25:111827,55:312e81,80:7c3aed,100:06b6d4&text=PRANJAL%20SHARMA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20BUILDER%20%E2%80%A2%20GENAI%20CREATOR%20%E2%80%A2%20TECH%20STORYTELLER&descSize=20&descAlignY=56"/>
 
----
+<br/>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2400&pause=900&color=00F5FF&center=true&vCenter=true&width=950&height=80&lines=Building+AI+systems+that+feel+human;Turning+curiosity+into+intelligent+products;Prompt+Engineering+%7C+AI+Workflows+%7C+Automation;Learning.+Building.+Shipping."/>
 
-<img src="https://img.shields.io/badge/GENAI-SYSTEM-00F5FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/STREAMLIT-APP-FF4ECD?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_SYSTEMS-ONLINE-00F5FF?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/GENAI-BUILDER-7C3AED?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/STORYTELLING-ACTIVE-EC4899?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/STATUS-STILL_BUILDING-06B6D4?style=for-the-badge&labelColor=0B1020"/>
 
-<img src="https://img.shields.io/badge/OPENROUTER-LLM-blueviolet?style=for-the-badge"/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/AI-SAAS-0ea5e9?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=pranjalsharma14&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
-<img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MAINTAINED-YES-ff1744?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 🌌 NEUROVERSE AI CONTENT STUDIO
+# ⚡ ABOUT ME
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/240825371-c6d7d2d3-1959-4fbb-91f6-4a58df0f6b93.gif" width="100%"/>
-</p>
-
----
-
-# ⚡ PLATFORM OVERVIEW
-
-NeuroVerse AI is a next-generation AI Content Studio designed to generate professional-quality content using advanced LLM systems and prompt engineering workflows.
-
-The platform combines:
-
-- Multi-model AI generation
-- Real-time prompt orchestration
-- Content automation
-- AI writing workflows
-- Tone transformation
-- Viral content systems
-- SaaS-style UX experience
-- Intelligent AI tooling
-
-Built using:
-
-- Python
-- Streamlit
-- OpenRouter APIs
-- LLM Infrastructure
-- Modern UI systems
-
----
-
-# 🧠 CORE FEATURES
-
-<table align="center">
+<table>
 <tr>
-<th>MODULE</th>
-<th>DESCRIPTION</th>
-<th>STATUS</th>
-</tr>
 
-<tr>
-<td>AI Blog Generator</td>
-<td>SEO optimized long-form content generation</td>
-<td>✅ Active</td>
-</tr>
+<td width="38%" align="center">
 
-<tr>
-<td>LinkedIn AI Writer</td>
-<td>Professional thought-leadership content</td>
-<td>✅ Active</td>
-</tr>
+<img src="https://avatars.githubusercontent.com/pranjalsharma14?s=300" width="250" style="border-radius:20px;"/>
 
-<tr>
-<td>Instagram Caption Engine</td>
-<td>High-engagement caption creation</td>
-<td>✅ Active</td>
-</tr>
+<br/><br/>
 
-<tr>
-<td>Prompt Engineering System</td>
-<td>Structured AI prompt orchestration</td>
-<td>✅ Active</td>
-</tr>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalsharma14&theme=tokyonight&hide_border=true&background=0B1020&ring=00F5FF&fire=7C3AED&currStreakLabel=ffffff"/>
 
-<tr>
-<td>AI Tone Transformer</td>
-<td>Dynamic writing style conversion</td>
-<td>✅ Active</td>
-</tr>
+</td>
 
-<tr>
-<td>AI Summarizer</td>
-<td>Long-content compression engine</td>
-<td>✅ Active</td>
-</tr>
+<td width="62%">
 
-<tr>
-<td>Hashtag Intelligence</td>
-<td>AI-generated growth hashtags</td>
-<td>✅ Active</td>
-</tr>
+# 👋 Hey, I'm Pranjal
 
-<tr>
-<td>YouTube Script Generator</td>
-<td>Long-form video scripting system</td>
-<td>✅ Active</td>
-</tr>
+I'm someone who got obsessed with understanding how technology works beneath the surface.
 
-<tr>
-<td>Startup Pitch Generator</td>
-<td>Investor-style startup pitches</td>
-<td>✅ Active</td>
-</tr>
+What started with random late-night experiments slowly turned into:
+- building AI products
+- designing prompt systems
+- creating intelligent workflows
+- simplifying complex tech through storytelling
 
-<tr>
-<td>Multi-Language Engine</td>
-<td>English + Hindi + Hinglish generation</td>
-<td>✅ Active</td>
-</tr>
+Right now, I’m focused on:
+```yaml
+→ AI SaaS Products
+→ Prompt Engineering
+→ Automation Systems
+→ LLM Workflows
+→ Creative AI Applications
+```
 
+I love building things that combine:
+> technology + creativity + systems thinking
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-# 🧩 CONTENT MODULES
+# ✦ THE JOURNEY ✦
 
-<table align="center">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=19&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Every+builder+starts+with+curiosity.;Every+system+starts+with+an+idea.;This+is+how+my+journey+started."/>
+
+</div>
+
+---
+
+# 🧩 HOW IT ALL STARTED
+
+<table>
 <tr>
-<th>AI TOOL</th>
-<th>PURPOSE</th>
-<th>OUTPUT TYPE</th>
-</tr>
 
-<tr>
-<td>Blog Writer</td>
-<td>SEO article generation</td>
-<td>Long-form content</td>
-</tr>
+<td width="45%" align="center">
 
-<tr>
-<td>Email Writer</td>
-<td>Professional communication</td>
-<td>Business emails</td>
-</tr>
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJmMGl2OXA2YmR2aG1mM3JrN2d0OHV4b2pnNnd3bG5hNXZtNjR4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
 
-<tr>
-<td>Ad Copy Generator</td>
-<td>Marketing campaigns</td>
-<td>Sales copy</td>
-</tr>
+</td>
 
-<tr>
-<td>Hook Generator</td>
-<td>Viral hooks & scroll stoppers</td>
-<td>Social hooks</td>
-</tr>
+<td width="55%">
 
-<tr>
-<td>SEO Content Tool</td>
-<td>Search optimized content</td>
-<td>SEO articles</td>
-</tr>
+## 💻 Curiosity became an obsession.
 
-<tr>
-<td>AI Rewrite Tool</td>
-<td>Content enhancement</td>
-<td>Improved writing</td>
-</tr>
+Before AI and development,  
+there was just curiosity.
 
-<tr>
-<td>Title Generator</td>
-<td>Click-worthy headlines</td>
-<td>Viral titles</td>
-</tr>
+Opening random settings.  
+Watching tech videos for hours.  
+Trying to understand:
+> “How does all this actually work?”
 
-<tr>
-<td>Tweet Generator</td>
-<td>Twitter/X content creation</td>
-<td>Social posts</td>
-</tr>
+I wasn’t satisfied with just using technology.
 
+I wanted to understand the logic behind it.
+
+That mindset slowly pushed me toward:
+- coding
+- systems thinking
+- AI tools
+- digital creation
+
+And eventually:
+> building things of my own.
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-# ⚙️ TECH STACK
+# 🚀 WHEN THINGS BECAME SERIOUS
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-</p>
-
----
-
-# 🧠 AI MODELS SUPPORTED
-
-<table align="center">
+<table>
 <tr>
-<th>MODEL</th>
-<th>PURPOSE</th>
-<th>TYPE</th>
-</tr>
 
-<tr>
-<td>Gemini 2.0 Flash</td>
-<td>Fast generation</td>
-<td>Free</td>
-</tr>
+<td width="55%">
 
-<tr>
-<td>GPT-4o Mini</td>
-<td>Premium responses</td>
-<td>Paid</td>
-</tr>
+## ⚡ Learning beyond tutorials.
 
-<tr>
-<td>Claude Haiku</td>
-<td>Creative writing</td>
-<td>Paid</td>
-</tr>
+The more I explored technology,  
+the more I realized something important:
 
-<tr>
-<td>Llama 3.1</td>
-<td>Open-source AI</td>
-<td>Free</td>
-</tr>
+> Great builders don’t just code.  
+> They solve problems.
 
-<tr>
-<td>Mistral 7B</td>
-<td>Lightweight generation</td>
-<td>Free</td>
-</tr>
+That mindset changed how I approached everything.
 
+I started exploring:
+- AI systems
+- automation
+- workflows
+- product thinking
+- technical storytelling
+
+And slowly, random experiments turned into real projects.
+
+</td>
+
+<td width="45%" align="center">
+
+<img width="100%" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-# 🏗️ APPLICATION ARCHITECTURE
+# 📚 THE WRITING PHASE
 
-<table align="center">
+<table>
 <tr>
-<th>LAYER</th>
-<th>TECHNOLOGY</th>
-<th>ROLE</th>
-</tr>
 
-<tr>
-<td>Frontend Layer</td>
-<td>Streamlit</td>
-<td>Interactive AI dashboard</td>
-</tr>
+<td width="45%" align="center">
 
-<tr>
-<td>Backend Logic</td>
-<td>Python</td>
-<td>Workflow orchestration</td>
-</tr>
+<img width="100%" src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif"/>
 
-<tr>
-<td>AI Layer</td>
-<td>OpenRouter APIs</td>
-<td>LLM integration</td>
-</tr>
+</td>
 
-<tr>
-<td>Memory Layer</td>
-<td>Session State</td>
-<td>Persistent app memory</td>
-</tr>
+<td width="55%">
 
-<tr>
-<td>Content Engine</td>
-<td>Prompt Templates</td>
-<td>Structured generation</td>
-</tr>
+## ✍️ Making technology easier to understand.
 
-<tr>
-<td>Export Layer</td>
-<td>Markdown + TXT</td>
-<td>Output downloads</td>
-</tr>
+One of the biggest turning points was working on educational content.
 
+I got the opportunity to contribute to:
+> **Arihant Publications**
+
+one of India's most recognized educational publishers.
+
+Working on Computer Science, AI, and Robotics content taught me something powerful:
+
+Understanding technology is important.
+
+But explaining it clearly?
+> That’s a completely different skill.
+
+That experience improved:
+- communication
+- structured thinking
+- storytelling
+- simplifying complex concepts
+
+And honestly,
+it changed how I build products today.
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 🤖 DISCOVERING GENERATIVE AI
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranjalsharma14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalsharma14&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 CONTRIBUTION GRAPH
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalsharma14&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🚀 WHY THIS PROJECT STANDS OUT
-
-<table align="center">
+<table>
 <tr>
-<th>FEATURE</th>
-<th>ADVANTAGE</th>
-</tr>
 
-<tr>
-<td>Multi-LLM Support</td>
-<td>Switch between AI providers dynamically</td>
-</tr>
+<td width="55%">
 
-<tr>
-<td>Prompt Engineering</td>
-<td>Structured professional outputs</td>
-</tr>
+## 🧠 The moment everything accelerated.
 
-<tr>
-<td>Production UI</td>
-<td>SaaS-like modern dashboard experience</td>
-</tr>
-
-<tr>
-<td>Real AI Workflow</td>
-<td>Practical real-world implementation</td>
-</tr>
-
-<tr>
-<td>Scalable Architecture</td>
-<td>Easy future expansion</td>
-</tr>
-
-<tr>
-<td>Content Automation</td>
-<td>Massive productivity increase</td>
-</tr>
-
-</table>
-
----
-
-# 💡 FUTURE ROADMAP
-
-- AI memory system
-- Prompt marketplace
+Then came:
+- LLMs
+- Prompt Engineering
 - AI agents
-- Team collaboration
-- Content scheduling
-- Vector database integration
-- RAG pipeline
-- Voice AI generation
-- AI workflow automation
-- Full SaaS deployment
+- RAG systems
+- automation pipelines
 
----
+And suddenly:
+the internet felt different.
 
-# 🌐 DEPLOYMENT
+I stopped seeing AI as:
+> “just a chatbot.”
 
-<table align="center">
-<tr>
-<th>PLATFORM</th>
-<th>STATUS</th>
-</tr>
+And started seeing it as:
+> a completely new layer of intelligence.
 
-<tr>
-<td>Streamlit Cloud</td>
-<td>✅ Live</td>
-</tr>
+That’s when building became more than just learning.
 
-<tr>
-<td>GitHub</td>
-<td>✅ Active Repository</td>
-</tr>
-
-<tr>
-<td>OpenRouter API</td>
-<td>✅ Connected</td>
-</tr>
-
-</table>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://github.com/pranjalsharma14">
-  <img src="https://img.shields.io/badge/GitHub-pranjalsharma14-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pranjalsharma56/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pranjal%20Sharma-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:pranjalsharma.works@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 👨‍💻 DEVELOPER
-
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="https://avatars.githubusercontent.com/pranjalsharma14?s=200" width="120"/>
-
-### PRANJAL SHARMA
-
-AI Builder • GenAI Engineer • Prompt Engineering Specialist
-
-🔗 GitHub:  
-https://github.com/pranjalsharma14
-
-🚀 Building:
-AI SaaS Products • LLM Systems • Streamlit AI Apps
+It became obsession.
 
 </td>
-</tr>
-</table>
 
----
+<td width="45%" align="center">
 
-# ⭐ SUPPORT THIS REPOSITORY
-
-<p align="center">
-
-<a href="https://github.com/pranjalsharma14/NeuroVerse-AI/stargazers">
-  <img src="https://img.shields.io/github/stars/pranjalsharma14/NeuroVerse-AI?style=for-the-badge&logo=github&color=7C3AED"/>
-</a>
-
-<a href="https://github.com/pranjalsharma14/NeuroVerse-AI/network/members">
-  <img src="https://img.shields.io/github/forks/pranjalsharma14/NeuroVerse-AI?style=for-the-badge&logo=github&color=06B6D4"/>
-</a>
-
-<a href="https://github.com/pranjalsharma14/NeuroVerse-AI/issues">
-  <img src="https://img.shields.io/github/issues/pranjalsharma14/NeuroVerse-AI?style=for-the-badge&logo=github&color=EC4899"/>
-</a>
-
-<a href="https://github.com/pranjalsharma14/NeuroVerse-AI">
-  <img src="https://komarev.com/ghpvc/?username=pranjalsharma14&label=Repository+Views&style=for-the-badge&color=0ea5e9"/>
-</a>
-
-</p>
-
----
-
-# 💙 SHOW SOME LOVE
-
-<table align="center">
-<tr>
-<td align="center">
-
-⭐ Star the repository  
-🍴 Fork the project  
-🛠️ Contribute to NeuroVerse AI  
-🚀 Support future AI systems  
+<img width="100%" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📜 LICENSE
+# ⚡ WHAT I’M BUILDING
 
-<table align="center">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Ideas+that+turned+into+real+projects."/>
+
+</div>
+
+<br/>
+
+<table>
 <tr>
-<td>
 
-This repository is protected under a Custom Proprietary License.
+<td width="33%" align="center">
 
-You are allowed to:
+<img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="90"/>
 
-- View the repository
-- Learn from the architecture
-- Use for inspiration
+# 🌌 NeuroVerse AI
 
-You are NOT allowed to:
+### AI Content System
 
-- Copy the complete project
-- Re-upload the source code
-- Commercially redistribute the project
-- Claim ownership of the work
+Transforms one idea into:
+- blogs
+- LinkedIn posts
+- SEO content
+- content workflows
 
-© 2026 Pranjal Sharma — All Rights Reserved.
+<br/>
+
+`Python • OpenRouter • Streamlit`
 
 </td>
+
+<td width="33%" align="center">
+
+<img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="90"/>
+
+# 🎯 AI Career Copilot
+
+### AI Career Assistant
+
+Features:
+- resume analysis
+- ATS optimization
+- interview simulation
+- career guidance
+
+<br/>
+
+`Python • NLP • Automation`
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="90"/>
+
+# ⚡ Prompt Toolkit
+
+### Prompt Engineering System
+
+Built for:
+- reusable prompts
+- reasoning systems
+- AI workflows
+- scalable outputs
+
+<br/>
+
+`LLMs • Prompt Engineering • Python`
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🌌 FINAL VISUAL
+# 🧠 CURRENT FOCUS
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F5FF,25:7F5AF0,50:FF4ECD,100:0F172A&section=footer&text=BUILD%20AI%20.%20SHIP%20FAST%20.%20SCALE%20SYSTEMS&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=pranjalsharma14&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-</p>
+```yaml
+CURRENTLY_BUILDING:
+  → AI SaaS Products
+  → Automation Systems
+  → Intelligent Workflows
+
+CURRENTLY_LEARNING:
+  → Agentic AI
+  → Advanced RAG Pipelines
+  → AI Product Architecture
+
+GOAL:
+  → Build technology that feels useful,
+    intuitive, and human.
+```
+
+</div>
+
+---
+
+# ⚡ CURRENT SIGNAL
+
+<div align="center">
+
+<img width="100%" src="https://media.giphy.com/media/3o7TKsQ8UQ9M4b2Q4U/giphy.gif"/>
+
+</div>
+
+```yaml
+CURRENTLY_BUILDING:
+  → AI SaaS products
+  → intelligent automation systems
+  → prompt infrastructures
+
+CURRENTLY_LEARNING:
+  → Agentic AI
+  → advanced RAG pipelines
+  → AI orchestration
+
+CURRENT_MINDSET:
+  → Build fast
+  → Learn publicly
+  → Improve continuously
+
+CURRENT_SOUNDTRACK:
+  → Synthwave
+  → Lo-fi coding playlists
+  → Cyberpunk ambience
+```
+
+---
+
+# 🧬 INTELLIGENCE STACK
+
+<div align="center">
+
+## 🤖 AI / GENAI
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+
+<br/><br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=00F5FF)
+![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=7C3AED)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=00F5FF)
+![Pinecone](https://img.shields.io/badge/Pinecone-111827?style=for-the-badge&logo=pinecone&logoColor=EC4899)
+
+<br/><br/>
+
+## ⚒️ DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,git,github,linux,vscode&theme=dark"/>
+
+<br/><br/>
+
+## 🎨 DESIGN + AUTOMATION
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+
+<br/>
+
+![Canva](https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00F5FF)
+![Notion](https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=ffffff)
+![n8n](https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EC4899)
+
+</div>
+
+---
+
+# 📊 SYSTEM ANALYTICS
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranjalsharma14&theme=tokyonight"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalsharma14&theme=react-dark&bg_color=0B1020&color=00F5FF&line=7C3AED&point=ffffff&hide_border=true"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranjalsharma14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsharma14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020"/>
+
+</div>
+
+---
+
+# 🎧 AI TRANSMISSIONS
+
+<div align="center">
+
+> ### “Technology didn’t change my life. It rewrote my operating system.”
+
+<br/>
+
+> ### “Every workflow eventually becomes intelligence.”
+
+<br/>
+
+> ### “The future belongs to people who can build systems.”
+
+<br/>
+
+> ### “AI is not replacing creativity. It is amplifying it.”
+
+</div>
+
+---
+
+# ⚡ FINAL TRANSMISSION
+
+<div align="center">
+
+<a href="https://linkedin.com/in/pranjalsharma14">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/pranjalsharma14">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@pranjalsharma14">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@pranjalsharma14">
+<img src="https://img.shields.io/badge/MEDIUM-111827?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=SYSTEM+STATUS:+EVOLVING...;STILL+BUILDING...;STILL+LEARNING...;STILL+DEPLOYING..."/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,40:312e81,100:06b6d4&text=STILL%20BUILDING...&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+
+</div>
+
